@@ -1,0 +1,97 @@
+body { 
+    background-color: rgb(231, 207, 184);
+    background-attachment: fixed;
+    font-style:unset;
+}
+.titulo1{
+    background-color: white;
+    border-bottom: thin dashed;
+    font-size: 32px;
+    text-align: center;
+    color: rgb(114, 30, 30)
+}
+
+.imagen1 {
+    text-align: center;
+    width: 40%;
+    border-radius: 15pc;
+}
+
+
+
+.colortexto{
+    color: rgb(46, 21, 21);
+}
+
+
+.proceso {
+    font-size: 24px;
+    color: rgb(94, 38, 38);
+}
+
+.imagen2 {
+    border-radius: 40pt;
+    width: 300px;
+    float:right;
+    position: relative;
+}
+
+
+.textovideo{
+    font-size: 20px;
+    color:rgb(114, 28, 28);
+    text-decoration: underline;
+}
+
+
+.titulo2{
+    font-size: 32px;
+    color: rgb(94, 38, 38);
+    text-decoration: underline;
+    text-align:center;
+}
+
+.imagen3{
+    width: 100%;
+}
+
+.subtítulos{
+    font-size: 24px;
+    color: rgb(94, 38, 38);
+    text-align: center;
+}
+
+
+.frase1{
+    background-color: white;
+    font-size: 24px;
+    text-align: center;
+    color:rgb(143, 22, 22)
+}
+
+
+.video2{
+   display: block;
+   width: 560px;
+   height: 315px;
+   margin: 1em auto;
+}
+
+
+
+.frase2{
+    float: right;
+    color: rgb(241, 241, 63);
+    background-color: black;
+}
+
+
+.logo{
+    width: 10%;
+    float:right
+}
+
+
+.link{
+    text-align: center;
+}
